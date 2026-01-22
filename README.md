@@ -2,7 +2,7 @@
 
 ![3D Chess](https://img.shields.io/badge/WebGL-2.0-blue) ![License](https://img.shields.io/badge/license-ISC-green) ![Status](https://img.shields.io/badge/status-active-success)
 
-An immersive 3D chess game built with WebGL 2.0, featuring advanced lighting, customizable themes, and AI opponents of varying difficulty levels. Created as a final project for the Computer Graphics course at Politecnico di Milano.
+An immersive 3D chess game built with WebGL 2.0, featuring advanced lighting, customizable themes, and AI opponents of varying difficulty levels.
 
 ## 🎮 Features
 
